@@ -1,8 +1,8 @@
 .menu-item{
-    background-image: url('https://cdn.rawgit.com/Mikael-HSW/Citra/master/menu_sprite_white.png');
+    background-image: url('https://cdn.rawgit.com/Mikael-HSW/image/master/menu_sprite_white.png');
 }
 #page-cover>div.socials>div>a>div.icon{
-    background: url('https://cdn.rawgit.com/Mikael-HSW/Citra/master/social_sprite_white.png') no-repeat;
+    background: url('https://cdn.rawgit.com/Mikael-HSW/Citra/image/social_sprite_white.png') no-repeat;
 }
 .menu-item-block>p{
     color: #FFFFFF;
