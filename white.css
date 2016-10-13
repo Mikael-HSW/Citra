@@ -2,7 +2,7 @@
     background-image: url('https://cdn.rawgit.com/Mikael-HSW/Citra/master/menu_sprite_white.png');
 }
 #page-cover>div.socials>div>a>div.icon{
-    background: url('https://lh6.googleusercontent.com/-eZS_REkKAak/VAiWOk4nRoI/AAAAAAAAAVo/QIZDLdw8C7c/s800/social_sprite_white.png') no-repeat;
+    background: url('https://cdn.rawgit.com/Mikael-HSW/Citra/master/social_sprite_white.png') no-repeat;
 }
 .menu-item-block>p{
     color: #FFFFFF;
